@@ -1,0 +1,15 @@
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\bin\Debug\net8.0\basic_study.exe
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\bin\Debug\net8.0\basic_study.deps.json
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\bin\Debug\net8.0\basic_study.runtimeconfig.json
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\bin\Debug\net8.0\basic_study.dll
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\bin\Debug\net8.0\basic_study.pdb
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\obj\Debug\net8.0\basic_study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\obj\Debug\net8.0\basic_study.AssemblyInfoInputs.cache
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\obj\Debug\net8.0\basic_study.AssemblyInfo.cs
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\obj\Debug\net8.0\basic_study.csproj.CoreCompileInputs.cache
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\obj\Debug\net8.0\basic_study.sourcelink.json
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\obj\Debug\net8.0\basic_study.dll
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\obj\Debug\net8.0\refint\basic_study.dll
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\obj\Debug\net8.0\basic_study.pdb
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\obj\Debug\net8.0\basic_study.genruntimeconfig.cache
+C:\Users\V5I5CL\Source\Repos\c--2026-2-felev\basic_study\obj\Debug\net8.0\ref\basic_study.dll
