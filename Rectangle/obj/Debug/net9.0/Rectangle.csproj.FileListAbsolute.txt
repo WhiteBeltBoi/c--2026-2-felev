@@ -1,0 +1,15 @@
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/bin/Debug/net9.0/Rectangle
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/bin/Debug/net9.0/Rectangle.deps.json
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/bin/Debug/net9.0/Rectangle.runtimeconfig.json
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/bin/Debug/net9.0/Rectangle.dll
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/bin/Debug/net9.0/Rectangle.pdb
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/obj/Debug/net9.0/Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/obj/Debug/net9.0/Rectangle.AssemblyInfoInputs.cache
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/obj/Debug/net9.0/Rectangle.AssemblyInfo.cs
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/obj/Debug/net9.0/Rectangle.csproj.CoreCompileInputs.cache
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/obj/Debug/net9.0/Rectangle.sourcelink.json
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/obj/Debug/net9.0/Rectangle.dll
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/obj/Debug/net9.0/refint/Rectangle.dll
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/obj/Debug/net9.0/Rectangle.pdb
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/obj/Debug/net9.0/Rectangle.genruntimeconfig.cache
+/Users/johndoe/RiderProjects/c--2026-2-felev/01/Rectangle/Rectangle/obj/Debug/net9.0/ref/Rectangle.dll
